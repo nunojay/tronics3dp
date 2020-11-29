@@ -11,11 +11,11 @@
 
 
 // Parameter defaults are for Rigol RP2200 probes.
-module ProbeTipProtection (
+module ProbeTipCover (
         InnerDiameter = 5.00,
         BodyLength = 7.10,
         ConeLength = 2.50,
-        TipLength = 0.80,
+        TipLength = 0.00,
         TipHoleDiameter = 0.90,
         WallThickness = 0.4
 )  {
@@ -94,5 +94,5 @@ module ProbeTipProtection (
 
 
 /// Test
-//ProbeTipProtection();
+//ProbeTipCover();
 
