@@ -1,6 +1,6 @@
 # 3D Printable Electronics Related Stuff
 
-I'll be gathering here a set os electronics related 3D printed stuff of my own design.
+I'll be gathering here a set of electronics related 3D printed stuff of my own design.
 
 ## 3D Printable Oscilloscope Probe Tip Cover
 
